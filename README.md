@@ -24,6 +24,22 @@
  - [x] Usb 3.0 + Usb 2.0 + Type C + Front panel case Usb
  - [x] Native hotkey support with Fn keys
  - [x] Sleep
+ 
+## Kexts used
+
+- **Audio** : It supported using `AppleALC.kext` and `layout-id 12`
+
+- **CPU** : Working using `VirtualSMC.kext` and `Lilu.kext`
+
+- **Graphics** : Working using `WhateverGreen.kext`
+
+- **USBs** : Custom generated. Supported using `USBToolBox.kext` + `UTBMap.kext`
+
+- **Ethernet** : 2.5 Gigabit Ethernet using `LucyRTL8125Ethernet.kext`.
+
+- **HDMI** : Working using `WhateverGreen.kext`.
+
+- **NVME** : Working using `NVMeFix.kext`.
 
 ## Installation
 
