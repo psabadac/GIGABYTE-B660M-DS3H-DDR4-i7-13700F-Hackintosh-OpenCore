@@ -14,6 +14,7 @@
   - [x] PSU: [Aerocool LUX 80+ Bronze 750W](https://aerocool.io/product/lux-750w/)
   - [x] Case: [Segotep Halo 5 Black](https://www.segotep.com/En/product_show.aspx?id=183)
   - [x] Display: [SAMSUNG 34" Ultra WQHD Monitor with 21:9 Wide Screen](https://www.samsung.com/ca/monitors/ultra-wide/ultra-wqhd-monitor-with-21-9-wide-screen-34-inch-ls34j552wqnxza/)
+  - [x] Keyboard & Mouse: [logitech MK220 Compact Wireless Keyboard and Mouse combo](https://www.logitech.com/en-eu/products/combos/mk220-compact-keyboard-mouse.920-003168.html)
 
 ## What's Working...
  - [x] Audio & microphone jacks: front panel and motherboard
