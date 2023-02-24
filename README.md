@@ -13,6 +13,7 @@
   - [x] SSD: [SAMSUNG 980 PRO PCIe® 4.0 NVMe™ SSD 1TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-pcie-4-0-nvme-ssd-1tb-mz-v8p1t0b-am/)
   - [x] PSU: [Aerocool LUX 80+ Bronze 750W](https://aerocool.io/product/lux-750w/)
   - [x] Case: [Segotep Halo 5 Black](https://www.segotep.com/En/product_show.aspx?id=183)
+  - [x] Display: [SAMSUNG 34" Ultra WQHD Monitor with 21:9 Wide Screen](https://www.samsung.com/ca/monitors/ultra-wide/ultra-wqhd-monitor-with-21-9-wide-screen-34-inch-ls34j552wqnxza/)
 
 ## What's Working...
  - [x] Audio & microphone jacks: front panel and motherboard
