@@ -32,6 +32,11 @@
 
 - **CPU** : Working using `VirtualSMC.kext` and `Lilu.kext`
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Cpuid1Data` to `55060A00 00000000 00000000 00000000` or in TextEdit `VQYKAAAAAAAAAAAAAAAAAA==`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Cpuid1Mask` to `FFFFFFFF 00000000 00000000 00000000` or in TextEdit `/////wAAAAAAAAAAAAAAAA==`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`MinDate` and `MinVersion` to `-1`
 - **Graphics** : Working using `WhateverGreen.kext`
 
 - **USBs** : Custom generated. Supported using `USBToolBox.kext` + `UTBMap.kext`
