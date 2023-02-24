@@ -1,5 +1,9 @@
 # GIGABYTE-B660M-DS3H-DDR4-i7-13700F-Hackintosh-OpenCore
 
+<p align="center">
+  <img src="https://i.imgur.com/Iocdsfe.png" alt="Specs">
+</p>
+
 ## Shopping list
 
  - [x] MBO: [GIGABYTE B660M DSH3 DDR4 with BIOS Version F21](https://www.gigabyte.com/Motherboard/B660M-DS3H-DDR4-rev-10#kf)
