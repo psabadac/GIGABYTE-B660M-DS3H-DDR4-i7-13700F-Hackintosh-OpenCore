@@ -39,6 +39,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`ProvideCurrentCpuInfo` to `true`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`MinDate` and `MinVersion` to `-1`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`HideAuxiliary` to `false`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`DmgLoading` to `Any`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`SecureBootModel` to `Disabled`
 - **Graphics** : Working using `WhateverGreen.kext`
 
 - **USBs** : Custom generated. Supported using `USBToolBox.kext` + `UTBMap.kext`
