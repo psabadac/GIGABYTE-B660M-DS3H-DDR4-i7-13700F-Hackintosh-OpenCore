@@ -47,6 +47,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`SecureBootModel` to `Disabled`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`boot-args` to `-wegnoigpu alcid=12 agdpmod=pikera`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`SetupVirtualMap` to `true` or it will not boot
 - **Graphics** : Working using `WhateverGreen.kext`
 
 - **USBs** : Custom generated. Supported using `USBToolBox.kext` + `UTBMap.kext`
