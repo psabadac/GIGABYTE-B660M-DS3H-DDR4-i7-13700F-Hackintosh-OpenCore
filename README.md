@@ -1,4 +1,4 @@
-# GIGABYTE-B660M-DS3H-DDR4-i7-13700F-Hackintosh-OpenCore
+# i7-13700F + RX6600 Hackintosh-OpenCore
 
 <p align="center">
   <img src="https://i.imgur.com/Iocdsfe.png" alt="Specs">
@@ -16,7 +16,7 @@
   - [x] Display: [SAMSUNG 34" Ultra WQHD Monitor with 21:9 Wide Screen](https://www.samsung.com/ca/monitors/ultra-wide/ultra-wqhd-monitor-with-21-9-wide-screen-34-inch-ls34j552wqnxza/)
   - [x] Keyboard & Mouse: [logitech MK220 Compact Wireless Keyboard and Mouse combo](https://www.logitech.com/en-eu/products/combos/mk220-compact-keyboard-mouse.920-003168.html)
 
-## What's Working...
+## What's Working
  - [x] Audio & microphone jacks: front panel and motherboard
  - [x] CPU Speedstep (XCPM)
  - [x] Fully Functional QE/CI Enabled Graphics
@@ -35,6 +35,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Cpuid1Data` to `55060A00 00000000 00000000 00000000` or in TextEdit `VQYKAAAAAAAAAAAAAAAAAA==`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Cpuid1Mask` to `FFFFFFFF 00000000 00000000 00000000` or in TextEdit `/////wAAAAAAAAAAAAAAAA==`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`ProvideCurrentCpuInfo` to `true`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`MinDate` and `MinVersion` to `-1`
 - **Graphics** : Working using `WhateverGreen.kext`
