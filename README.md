@@ -28,7 +28,7 @@
  
 ## Kexts used
 
-- **Audio** : It supported using `AppleALC.kext` and `layout-id 12`
+- **Audio** : Realtek `ALC897` with Revision Id `0x100402` It supported using `AppleALC.kext` and `layout-id 12`
 
 - **CPU** : Working using `VirtualSMC.kext` and `Lilu.kext`
 
