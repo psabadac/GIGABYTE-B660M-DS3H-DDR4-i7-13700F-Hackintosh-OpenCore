@@ -32,23 +32,6 @@
 
 - **CPU** : Working using `VirtualSMC.kext` and `Lilu.kext`
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Cpuid1Data` to `55060A00 00000000 00000000 00000000` or in TextEdit `VQYKAAAAAAAAAAAAAAAAAA==`
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Cpuid1Mask` to `FFFFFFFF 00000000 00000000 00000000` or in TextEdit `/////wAAAAAAAAAAAAAAAA==`
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`ProvideCurrentCpuInfo` to `true`
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`MinDate` and `MinVersion` to `-1`
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`HideAuxiliary` to `false`
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`DmgLoading` to `Any`
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`SecureBootModel` to `Disabled`
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`boot-args` to `-wegnoigpu alcid=12 agdpmod=pikera`
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`SetupVirtualMap` to `true` or it will not boot
 - **Graphics** : Working using `WhateverGreen.kext`
 
 - **USBs** : Custom generated. Supported using `USBToolBox.kext` + `UTBMap.kext`
