@@ -10,7 +10,7 @@
  - [x] CPU: [Intel® Core™ i7-13700F 2.1 GHz Box with stock cooler included](https://www.intel.com/content/www/us/en/products/sku/230491/intel-core-i713700f-processor-30m-cache-up-to-5-20-ghz/specifications.html)
   - [x] GPU: [PULSE AMD Radeon™ RX 6600](https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-6600-8g-gddr6)
   - [x] RAM: [Kingston FURY™ Beast DDR4 3200MHz, 2 x 32GB kits](https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr4-memory)
-  - [x] SSD: [SAMSUNG 980 PRO PCIe® 4.0 NVMe™ SSD 1TB](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-pcie-4-0-nvme-ssd-1tb-mz-v8p1t0b-am/)
+  - [x] SSD: [WD_BLACK SN850X NVMe™ 1TB SSD](https://www.westerndigital.com/en-ap/products/internal-drives/wd-black-sn850x-nvme-ssd#WDS100T2X0E)
   - [x] PSU: [Aerocool LUX 80+ Bronze 750W](https://aerocool.io/product/lux-750w/)
   - [x] Case: [Segotep Halo 5 Black](https://www.segotep.com/En/product_show.aspx?id=183)
   - [x] Display: [SAMSUNG 34" Ultra WQHD Monitor with 21:9 Wide Screen](https://www.samsung.com/ca/monitors/ultra-wide/ultra-wqhd-monitor-with-21-9-wide-screen-34-inch-ls34j552wqnxza/)
