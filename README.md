@@ -1,7 +1,7 @@
 # B660M-DS3H-DDR4 + i7-13700F + RX6600 Hackintosh-OpenCore
 
 <p align="center">
-  <img src="https://i.imgur.com/Iocdsfe.png" alt="Specs">
+  <img src="https://i.imgur.com/vg76lIJ.png" alt="Specs">
 </p>
 
 ## Shopping list
@@ -43,6 +43,9 @@
 - **NVME** : Working using `NVMeFix.kext`.
 
 ## Installation
+
+### Download link for macrecovery
+python3 macrecovery.py -b Mac-7BA5B2D9E42DDD94 download
 
 ###  Basic Installation
 
