@@ -9,7 +9,7 @@
  - [x] MBO: [GIGABYTE B660M DS3H DDR4 with BIOS Version F21](https://www.gigabyte.com/Motherboard/B660M-DS3H-DDR4-rev-10#kf)
  - [x] CPU: [Intel® Core™ i7-13700F 2.1 GHz Box with stock cooler included](https://www.intel.com/content/www/us/en/products/sku/230491/intel-core-i713700f-processor-30m-cache-up-to-5-20-ghz/specifications.html)
   - [x] GPU: [PULSE AMD Radeon™ RX 6600](https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-6600-8g-gddr6)
-  - [x] Wifi/Bluetooth	Asus AX3000 Dual Band PCI-E WiFi 6 / Bluetooth 5.0
+  - [x] WiFi/Bluetooth	[Asus AX3000 Dual Band PCI-E WiFi 6 / Bluetooth 5.0](https://www.asus.com/networking-iot-servers/adapters/all-series/pce-ax3000/)
   - [x] RAM: [Kingston FURY™ Beast DDR4 3200MHz, 2 x 32GB kits](https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr4-memory)
   - [x] SSD: [WD_BLACK SN850X NVMe™ 1TB SSD](https://www.westerndigital.com/en-ap/products/internal-drives/wd-black-sn850x-nvme-ssd#WDS100T2X0E)
   - [x] PSU: [Aerocool LUX 80+ Bronze 750W](https://aerocool.io/product/lux-750w/)
