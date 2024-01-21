@@ -1,4 +1,4 @@
-# B660M-DS3H-DDR4 + i7-13700F + RX6600 Hackintosh-OpenCore
+# B660M-DS3H-DDR4 + i7-13700F + RX6600 + AX3000 Hackintosh-OpenCore
 
 <p align="center">
   <img src="https://i.imgur.com/vg76lIJ.png" alt="Specs">
