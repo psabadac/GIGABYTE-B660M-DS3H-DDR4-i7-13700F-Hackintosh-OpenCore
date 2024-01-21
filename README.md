@@ -33,6 +33,10 @@
 
 - **CPU** : Working using `VirtualSMC.kext` and `Lilu.kext`
 
+- **WiFi** : Working using `AirportItlwm.kext`
+
+- **Bluetooth** : Working using `IntelBTPatcher.kext` + `BlueToolFixup.kext` + `IntelBluetoothFirmware.kext`
+
 - **Graphics** : Working using `WhateverGreen.kext`
 
 - **USBs** : Custom generated. Supported using `USBToolBox.kext` + `UTBMap.kext`
